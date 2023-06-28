@@ -201,7 +201,7 @@ h1, h2, h3, h4, h5, h6 {
 #mainpage {
   width: 100%;
   height: 100vh;
-  background: url("/Portfolio_files/background.jpeg") top center;
+  background: url("/background.jpeg") top center;
   background-size: cover;
 }
 
